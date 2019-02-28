@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Goodbye World!");
+            Console.WriteLine("Goodbye cruel World!");
             Console.WriteLine();
 
             Console.WriteLine("Press any key to exit...");
